@@ -159,4 +159,7 @@ i've attached the malware ida database, however, i will not attach either runpe 
 
 with that said, i don't think there's anything else to say, thank you for reading this write up, may luck be with you.
 
+there was also a different ip, however doesnt matter what i tried it always returned 404  
+the ip is: `20.99.184.37`
+
 - indexregister / ffi - writing
